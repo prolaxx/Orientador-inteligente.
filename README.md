@@ -1,2 +1,2 @@
-# Orientador-inteligente.
+# Orientador-GPT.
 Orientador con Inteligencia Artificial.
